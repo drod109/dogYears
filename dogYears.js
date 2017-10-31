@@ -17,7 +17,7 @@ laterYears *= 4;
 let myAgeInDogYears = earlyYears += laterYears
 
 // Set and assign variable
-let myName = 'Dwayne'.toLowerCase();
+let myName = 'Jeff'.toLowerCase();
 
 // Console results
 console.log(`My name is ${myName}. I am ${myAgeInDogYears} years old in dog years.`);
